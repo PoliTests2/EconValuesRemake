@@ -1,2 +1,2 @@
-# 9axes.github.io
-The 9axes Political Quiz measures individuals' political values across 9 axes.
+# EconValuesRemake.github.io
+EconValuesRemake is a remake of EconValues. This was made through a fork of 9axes
